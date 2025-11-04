@@ -1,7 +1,7 @@
 ## 수현의 모바일 앱 수업 작품
 
 
-![](../images/img.png)
+![](./images/img.png)
 
 ## 📱 간단한 계산기 (Simple Calculator)
 
